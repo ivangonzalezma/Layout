@@ -1,0 +1,25 @@
+.btn{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #000;
+    border-radius: 16px;
+    min-height: 16px;
+    padding: 16px;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+
+.btn-oval{
+
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.btn-oval .icono{
+    font-size: 32px;
+}
